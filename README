@@ -1,0 +1,5 @@
+# Fork of Ben Hoskings dotfiles
+
+Discovered Ben's terminal setup rom an advanced git course on pluralsight. I liked the git branch and commit info ont the right hand side of the terminal. Also has some nice aliases set up for useful git commands, e.g. gla.
+
+Updated with some of my own personal commands, but virutally the same as Ben's original

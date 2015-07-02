@@ -13,7 +13,7 @@ alias la='ls -a'
 alias lal='ls -lah'
 alias less='less -R'
 alias sub='subl -n'
-
+alias chrome-dev='open -a Google\ Chrome --args --disable-web-security'
 cd() {
   builtin cd "$@" && ls
 }
