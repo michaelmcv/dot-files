@@ -1,14 +1,14 @@
 [push]
 	default = upstream
 [user]
-	name = Ben Hoskings
-	email = ben@hoskings.net
+	name = Michael McVeigh
+	email = mick@m-mcveigh.com
 [color]
 	ui = auto
 [core]
-	excludesfile = /Users/ben/.gitignore
+	excludesfile = /Users/michaelv/.gitignore
 [github]
-	user = benhoskings
+	user = michaelmcv
 [diff]
 	submodule = log
 [column]
